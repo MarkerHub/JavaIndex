@@ -99,6 +99,7 @@
 * [springboot+redis+Interceptor+自定义annotation实现接口自动幂等](https://mp.weixin.qq.com/s/swq3q1OeM8hs6Kv4CLyOPQ)
 * [图片验证码的需求分析、优雅实现](https://mp.weixin.qq.com/s/_aCPLk-zVBvhrjTDG7U9vA)
 * [jwt思维导图，让jwt不再难懂](https://mp.weixin.qq.com/s/hvaJdG_Sxc8iv4z7GHbo4w)
+* [基于 token 的多平台身份认证架构设计](https://mp.weixin.qq.com/s/xsHTwcrqDNPFLNzIbr0YRw)
 
 ### 单点登录
 * [我去！原来单点登录这么简单，这下糗大了！](https://mp.weixin.qq.com/s/L7TvtquNNEcv4Td9S0u9kg)
