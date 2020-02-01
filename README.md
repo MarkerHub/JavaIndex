@@ -4,6 +4,7 @@
 公众号【MarkerHub】的文章分类索引，直联公众号文章链接！
 
 ![关注公众号](https://image-1300566513.cos.ap-guangzhou.myqcloud.com/mine/MarkerHub.jpg)
+扫码关注公众号，学习Java，在MarkerHub！
 
 
 ## 基础知识
