@@ -79,12 +79,13 @@
 * [必读经典项目，web开发框架renren-fast项目解读](https://mp.weixin.qq.com/s/T-5yvcoufxHMjGrZdP5nzA)
 * [基于Jwt资源无状态认证权限管理系统bootshiro项目分析](https://mp.weixin.qq.com/s/Y4sgxrASAkmyQD1F17LldQ)
 * [SpringBoot 微信点餐开源系统](https://mp.weixin.qq.com/s/Oj3DWvAHXD17NQsllzBVJQ)
+* [SpringBoot 微信点餐开源系统](https://mp.weixin.qq.com/s/Oj3DWvAHXD17NQsllzBVJQ)
 
 
 ## 面试心得
 
 * [最近面试Java后端开发的感受](https://mp.weixin.qq.com/s/7tODq5dVmU08UKFjiTWZOQ)
-
+* [2019年最新的常问企业面试题大全以及答案](https://mp.weixin.qq.com/s/4B9NR_WwBF7O_f-9dJnsSg)
 
 # 解决方案
 
@@ -105,6 +106,7 @@
 * [图片验证码的需求分析、优雅实现](https://mp.weixin.qq.com/s/_aCPLk-zVBvhrjTDG7U9vA)
 * [jwt思维导图，让jwt不再难懂](https://mp.weixin.qq.com/s/hvaJdG_Sxc8iv4z7GHbo4w)
 * [基于 token 的多平台身份认证架构设计](https://mp.weixin.qq.com/s/xsHTwcrqDNPFLNzIbr0YRw)
+* [别在 Java 代码里乱打日志了，这才是打印日志的正确姿势！](https://mp.weixin.qq.com/s/lTsRYJ09O7bBG-jTtq4PUw)
 
 ### 单点登录
 * [我去！原来单点登录这么简单，这下糗大了！](https://mp.weixin.qq.com/s/L7TvtquNNEcv4Td9S0u9kg)
