@@ -37,6 +37,7 @@
 * [为啥mybatis的mapper只有接口没有实现类，但它却能工作？](https://mp.weixin.qq.com/s/TQyExQ_5ydxLmeXBBnuVaA)
 * [自己手写一个Mybatis框架(简化)](https://mp.weixin.qq.com/s/6c1lBqzzNXX3RO7wHF1qfg)
 * [MyBatis的底层实现原理！是动态代理的运用~](https://mp.weixin.qq.com/s/4P_4VfqlJCLfW5EX3u3DoA)
+* [超全 MyBatis 动态 SQL 详解！(看完 SQL 爽多了)](https://mp.weixin.qq.com/s/tMSFVQWsQZySGro3jKJaAQ)
 
 ### SpringCloud
 * [从 Spring Cloud 看一个微服务框架的「五脏六腑」](https://mp.weixin.qq.com/s/20aq-fiC-TYerVQfdlmkXA)
@@ -65,6 +66,9 @@
 * [面试问：Kafka为什么速度那么快？](https://mp.weixin.qq.com/s/jhwkMiPP8ebNA9kjaKeLpQ)
 
 ## 网络编程
+
+### websocket
+* [从理论到综合实例，终于弄懂了双工通讯协议websocket！](https://mp.weixin.qq.com/s/E6ADLes6rFvuWy_9-tpx5w)
 
 ## 工具插件
 
@@ -107,6 +111,7 @@
 * [jwt思维导图，让jwt不再难懂](https://mp.weixin.qq.com/s/hvaJdG_Sxc8iv4z7GHbo4w)
 * [基于 token 的多平台身份认证架构设计](https://mp.weixin.qq.com/s/xsHTwcrqDNPFLNzIbr0YRw)
 * [别在 Java 代码里乱打日志了，这才是打印日志的正确姿势！](https://mp.weixin.qq.com/s/lTsRYJ09O7bBG-jTtq4PUw)
+* [如何优雅的设计java异常](https://mp.weixin.qq.com/s/1TeK4vHQ46RDMJD6yNUQ0A)
 
 ### 单点登录
 * [我去！原来单点登录这么简单，这下糗大了！](https://mp.weixin.qq.com/s/L7TvtquNNEcv4Td9S0u9kg)
