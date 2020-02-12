@@ -65,6 +65,9 @@
 ### Kafka
 * [面试问：Kafka为什么速度那么快？](https://mp.weixin.qq.com/s/jhwkMiPP8ebNA9kjaKeLpQ)
 
+### redis
+* [我是如何用 redis 做实时订阅推送的](https://mp.weixin.qq.com/s/JiRKQuvFJO7atFZXr3X1-Q)
+
 ## 网络编程
 
 ### websocket
@@ -72,7 +75,7 @@
 
 ## 工具插件
 
-###IDEA
+### IDEA
 * [是时候扔掉Postman了，又一个被低估的IDEA插件出来了...](https://mp.weixin.qq.com/s/J8Je9FwMwf-Yf-j-8fEa4g)
 * [教你一招 IDE 中比较骚的操作技巧！](https://mp.weixin.qq.com/s/Uae8d-ZYrsCFsT5cNwIhTA)
 * [是时候扔掉 Postman 了，试试 IntelliJ IDEA 自带的高能神器！](https://mp.weixin.qq.com/s/ztod_xynIijSFpT8MBPLZw)
@@ -112,6 +115,7 @@
 * [基于 token 的多平台身份认证架构设计](https://mp.weixin.qq.com/s/xsHTwcrqDNPFLNzIbr0YRw)
 * [别在 Java 代码里乱打日志了，这才是打印日志的正确姿势！](https://mp.weixin.qq.com/s/lTsRYJ09O7bBG-jTtq4PUw)
 * [如何优雅的设计java异常](https://mp.weixin.qq.com/s/1TeK4vHQ46RDMJD6yNUQ0A)
+* [超全面的权限系统设计方案！](https://mp.weixin.qq.com/s/I_Cct5JqzsKU8dWgiPfXyg)
 
 ### 单点登录
 * [我去！原来单点登录这么简单，这下糗大了！](https://mp.weixin.qq.com/s/L7TvtquNNEcv4Td9S0u9kg)
