@@ -67,6 +67,7 @@
 
 ### redis
 * [我是如何用 redis 做实时订阅推送的](https://mp.weixin.qq.com/s/JiRKQuvFJO7atFZXr3X1-Q)
+* [如何保证缓存与数据库的双写一致性？](https://mp.weixin.qq.com/s/uLI-AAPbapEHBLfKI6lr2w)
 
 ## 网络编程
 
@@ -79,6 +80,7 @@
 * [是时候扔掉Postman了，又一个被低估的IDEA插件出来了...](https://mp.weixin.qq.com/s/J8Je9FwMwf-Yf-j-8fEa4g)
 * [教你一招 IDE 中比较骚的操作技巧！](https://mp.weixin.qq.com/s/Uae8d-ZYrsCFsT5cNwIhTA)
 * [是时候扔掉 Postman 了，试试 IntelliJ IDEA 自带的高能神器！](https://mp.weixin.qq.com/s/ztod_xynIijSFpT8MBPLZw)
+* [推荐几个IDEA插件，Java开发者撸码利器](https://mp.weixin.qq.com/s/cvX-Vb7YJ7N94mVWsgRp6Q)
 
 
 ## 项目解读
@@ -106,6 +108,10 @@
 
 ## 高可用
 
+### 架构设计
+
+* [以淘宝网为例，解析大型Java项目架构演进](https://mp.weixin.qq.com/s/4aHH5u9i7gZwNCtbdQI16Q)
+
 ## 业务设计
 * [所谓代码生成，简单！我详细分析给你看！](https://mp.weixin.qq.com/s/yfi6LwQOnrTybHz10Q98zw)
 * [手把手教你如何玩转统一异常处理](https://mp.weixin.qq.com/s/6w8mO5pXeQqd5-9fRPa8Ow)
@@ -116,6 +122,7 @@
 * [别在 Java 代码里乱打日志了，这才是打印日志的正确姿势！](https://mp.weixin.qq.com/s/lTsRYJ09O7bBG-jTtq4PUw)
 * [如何优雅的设计java异常](https://mp.weixin.qq.com/s/1TeK4vHQ46RDMJD6yNUQ0A)
 * [超全面的权限系统设计方案！](https://mp.weixin.qq.com/s/I_Cct5JqzsKU8dWgiPfXyg)
+* [从0到1，如何搭建一个好用的springboot开源项目](https://mp.weixin.qq.com/s/5OPAH8C-xa03AVylvkbWPQ)
 
 ### 单点登录
 * [我去！原来单点登录这么简单，这下糗大了！](https://mp.weixin.qq.com/s/L7TvtquNNEcv4Td9S0u9kg)
@@ -126,6 +133,7 @@
 ### Linux
 * [Linux最常用命令（简单易学，但能解决 95% 以上的问题）](https://mp.weixin.qq.com/s/ZY6r3Du9M0Db5HcKw-htLg)
 * [史上最全的 Linux Shell 文本处理工具集锦，快收藏！](https://mp.weixin.qq.com/s/1HAudULkYupwfs84zEHdxw)
+* [线上服务 CPU 又 100% 啦？一键定位 so easy！](https://mp.weixin.qq.com/s/YF49yVraxGkREpj3fdBR5A)
 
 
 
@@ -142,6 +150,7 @@
 
 ### 持续交付
 * [「Jenkins+Git+Maven+Shell+Tomcat持续集成」经典教程](https://mp.weixin.qq.com/s/Yienf1i2ubtlHh-XXWAVUw)
+* [一套基础自动化部署搭建过程](https://mp.weixin.qq.com/s/-M36sv1mNlQ20Kusc8wYvA)
 
 # 其他
 * [将20M文件从30秒压缩到1秒，我是如何做到的？](https://mp.weixin.qq.com/s/j0nUKn_44GyCG4lBSzmboQ)
