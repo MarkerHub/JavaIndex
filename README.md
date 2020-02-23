@@ -27,6 +27,7 @@
 ## 框架知识
 ### Spring & SpringMVC
 * [面试问烂的 Spring AOP 原理、SpringMVC 过程](https://mp.weixin.qq.com/s/J2ajQtHyN4Fq7CZEpGiC4A)
+* [Spring系列最全 69 道 面试题和详解](https://mp.weixin.qq.com/s/Q6bqWQDCgVlYU3LbaWSv3g)
 
 ### SpringBoot
 * [Spring MVC 到 Spring BOOT的简化之路](https://mp.weixin.qq.com/s/iR4ylGjhPOyCXC8k4Pq19w)
@@ -43,6 +44,7 @@
 * [从 Spring Cloud 看一个微服务框架的「五脏六腑」](https://mp.weixin.qq.com/s/20aq-fiC-TYerVQfdlmkXA)
 
 ### Shiro
+* [SpringBoot 整合Shiro实现动态权限加载更新+Session共享+单点登录](https://mp.weixin.qq.com/s/wQa6D93gdVu69l5fA32oww)
 
 ## 并发知识
 
@@ -52,6 +54,7 @@
 * [一次非常有意思的 SQL 优化经历: 从 30248.271s 到 0.001s](https://mp.weixin.qq.com/s/9rRI5DAq2eyqt43jGceOwg)
 * [记住：永远不要在 MySQL 中使用 UTF-8](https://mp.weixin.qq.com/s/QrczVAnDuXcHLFPtThfnfg)
 * [一千行 MySQL 详细学习笔记（值得学习与收藏）](https://mp.weixin.qq.com/s/Okc-jP8fPwO2RGbhdCd-XQ)
+* [SQL 性能优化，太太太太太太太有用了！](https://mp.weixin.qq.com/s/yv8falf-ClpzF0F7Ho00GQ)
 
 ### RabbitMq
 * [springboot + rabbitmq发送邮件(保证消息100%投递成功并被消费)](https://mp.weixin.qq.com/s/Adz_H2ZFotwpwtlupxTCCQ)
@@ -111,6 +114,7 @@
 ### 架构设计
 
 * [以淘宝网为例，解析大型Java项目架构演进](https://mp.weixin.qq.com/s/4aHH5u9i7gZwNCtbdQI16Q)
+* [千万级 高并发 “秒杀” 架构设计（含源码）](https://mp.weixin.qq.com/s/eaJzPsXcyYiv77dv7VYdUg)
 
 ## 业务设计
 * [所谓代码生成，简单！我详细分析给你看！](https://mp.weixin.qq.com/s/yfi6LwQOnrTybHz10Q98zw)
@@ -123,10 +127,11 @@
 * [如何优雅的设计java异常](https://mp.weixin.qq.com/s/1TeK4vHQ46RDMJD6yNUQ0A)
 * [超全面的权限系统设计方案！](https://mp.weixin.qq.com/s/I_Cct5JqzsKU8dWgiPfXyg)
 * [从0到1，如何搭建一个好用的springboot开源项目](https://mp.weixin.qq.com/s/5OPAH8C-xa03AVylvkbWPQ)
+* []()
 
 ### 单点登录
 * [我去！原来单点登录这么简单，这下糗大了！](https://mp.weixin.qq.com/s/L7TvtquNNEcv4Td9S0u9kg)
-
+* [SpringBoot 整合Shiro实现动态权限加载更新+Session共享+单点登录](https://mp.weixin.qq.com/s/wQa6D93gdVu69l5fA32oww)
 
 # 操作系统
 
@@ -136,8 +141,7 @@
 * [线上服务 CPU 又 100% 啦？一键定位 so easy！](https://mp.weixin.qq.com/s/YF49yVraxGkREpj3fdBR5A)
 
 
-
-#测试运维
+# 测试运维
 
 ## 运维
 
@@ -154,3 +158,8 @@
 
 # 其他
 * [将20M文件从30秒压缩到1秒，我是如何做到的？](https://mp.weixin.qq.com/s/j0nUKn_44GyCG4lBSzmboQ)
+
+
+扫码关注公众号，学习Java，在MarkerHub！
+
+![关注公众号](https://image-1300566513.cos.ap-guangzhou.myqcloud.com/mine/MarkerHub.jpg)
