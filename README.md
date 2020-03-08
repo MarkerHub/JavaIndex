@@ -12,6 +12,7 @@
 
 ### 基础中基础
 * [从输入URL到页面展示到底发生了什么](https://mp.weixin.qq.com/s/DiPffNhyaSGoTPEsFYgDMA)
+* [终于明白为什么要加 final 关键字了！](https://mp.weixin.qq.com/s/JqceP0ENs-XIwR3jYQR2TA)
 
 ### Java特性
 * [感受lambda之美，推荐收藏，需要时查阅](https://mp.weixin.qq.com/s/75YWbfuaFz6Hm8BQKZ7XSw)
@@ -28,6 +29,7 @@
 ### Spring & SpringMVC
 * [面试问烂的 Spring AOP 原理、SpringMVC 过程](https://mp.weixin.qq.com/s/J2ajQtHyN4Fq7CZEpGiC4A)
 * [Spring系列最全 69 道 面试题和详解](https://mp.weixin.qq.com/s/Q6bqWQDCgVlYU3LbaWSv3g)
+* [9 种设计模式在 Spring 中的运用，一定要非常熟练！](https://mp.weixin.qq.com/s/Fl1Qc-PUIKLSChx9B9KIJA)
 
 ### SpringBoot
 * [Spring MVC 到 Spring BOOT的简化之路](https://mp.weixin.qq.com/s/iR4ylGjhPOyCXC8k4Pq19w)
@@ -42,6 +44,7 @@
 
 ### SpringCloud
 * [从 Spring Cloud 看一个微服务框架的「五脏六腑」](https://mp.weixin.qq.com/s/20aq-fiC-TYerVQfdlmkXA)
+* [狠人 Spring Cloud 20000 字总结！](https://mp.weixin.qq.com/s/ljuHuwyDn9xeZzRVAg6QrA)
 
 ### Shiro
 * [SpringBoot 整合Shiro实现动态权限加载更新+Session共享+单点登录](https://mp.weixin.qq.com/s/wQa6D93gdVu69l5fA32oww)
@@ -71,6 +74,7 @@
 ### redis
 * [我是如何用 redis 做实时订阅推送的](https://mp.weixin.qq.com/s/JiRKQuvFJO7atFZXr3X1-Q)
 * [如何保证缓存与数据库的双写一致性？](https://mp.weixin.qq.com/s/uLI-AAPbapEHBLfKI6lr2w)
+* [Redis 是如何实现点赞、取消点赞的？](https://mp.weixin.qq.com/s/JGM9FnuzxmPCg8-Q-t9j-Q)
 
 ## 网络编程
 
@@ -105,6 +109,9 @@
 
 ### 服务化
 
+### 限流
+
+* [高并发场景下限流，常见的限流算法、方案解析！](https://mp.weixin.qq.com/s/pOBZioRfc-Csq8oWN0ERsA)
 
 ### 搜索引擎
 * [lucene思维导图，让搜索引擎不再难懂](https://mp.weixin.qq.com/s/RuwWifEAhd74IufaVWH92Q)
@@ -127,7 +134,8 @@
 * [如何优雅的设计java异常](https://mp.weixin.qq.com/s/1TeK4vHQ46RDMJD6yNUQ0A)
 * [超全面的权限系统设计方案！](https://mp.weixin.qq.com/s/I_Cct5JqzsKU8dWgiPfXyg)
 * [从0到1，如何搭建一个好用的springboot开源项目](https://mp.weixin.qq.com/s/5OPAH8C-xa03AVylvkbWPQ)
-* []()
+* [这么写参数校验(validator)就不会被劝退了~](https://mp.weixin.qq.com/s/UtI9g1UmumxOA2gocvOvhQ)
+
 
 ### 单点登录
 * [我去！原来单点登录这么简单，这下糗大了！](https://mp.weixin.qq.com/s/L7TvtquNNEcv4Td9S0u9kg)
@@ -147,6 +155,7 @@
 
 ### 代码管理
 * [Git使用教程：最详细、最傻瓜、最浅显、真正手把手教！](https://mp.weixin.qq.com/s/zsf7yU0GI6b_jfOaIOPLEw)
+* [作为开发人员，你不得不懂的Github搜索技巧！](https://mp.weixin.qq.com/s/84VUdR7kmJKkcp0Yqe6M8g)
 
 ### Docker
 
@@ -158,6 +167,7 @@
 
 # 其他
 * [将20M文件从30秒压缩到1秒，我是如何做到的？](https://mp.weixin.qq.com/s/j0nUKn_44GyCG4lBSzmboQ)
+* [130 个相见恨晚的超实用网站，一次性分享出来](https://mp.weixin.qq.com/s/QShOocwxHVe-U568O-bQ2A)
 
 
 扫码关注公众号，学习Java，在MarkerHub！
