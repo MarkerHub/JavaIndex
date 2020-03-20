@@ -34,6 +34,9 @@
 ### SpringBoot
 * [Spring MVC 到 Spring BOOT的简化之路](https://mp.weixin.qq.com/s/iR4ylGjhPOyCXC8k4Pq19w)
 * [给你一份SpringBoot知识清单](https://mp.weixin.qq.com/s/RTN4qWYNNp3WbKQXU8fObA)
+* [发现mybatis plus的牛逼，解决单表操作！](https://mp.weixin.qq.com/s/HsBKVZexW8PVpQ4ETSEWbQ)
+* [为什么很多SpringBoot开发者放弃了Tomcat，选择了Undertow](https://mp.weixin.qq.com/s/PHaGWVEP7RSx5GBOsH4Yew)
+
 
 ### Mybatis
 
@@ -48,6 +51,10 @@
 
 ### Shiro
 * [SpringBoot 整合Shiro实现动态权限加载更新+Session共享+单点登录](https://mp.weixin.qq.com/s/wQa6D93gdVu69l5fA32oww)
+
+### Spring Security
+
+* [SpringBoot 并发登录人数控制](https://mp.weixin.qq.com/s/QjTFmwa-pvWwH8welR-_sg)
 
 ## 并发知识
 
@@ -109,6 +116,8 @@
 
 ### 服务化
 
+* [Spring Cloud 和 Dubbo，到底用哪个好？](https://mp.weixin.qq.com/s/KKPJj5SpuZX41-Lv8JjzxQ)
+
 ### 限流
 
 * [高并发场景下限流，常见的限流算法、方案解析！](https://mp.weixin.qq.com/s/pOBZioRfc-Csq8oWN0ERsA)
@@ -135,6 +144,7 @@
 * [超全面的权限系统设计方案！](https://mp.weixin.qq.com/s/I_Cct5JqzsKU8dWgiPfXyg)
 * [从0到1，如何搭建一个好用的springboot开源项目](https://mp.weixin.qq.com/s/5OPAH8C-xa03AVylvkbWPQ)
 * [这么写参数校验(validator)就不会被劝退了~](https://mp.weixin.qq.com/s/UtI9g1UmumxOA2gocvOvhQ)
+* [SpringBoot 中使用 @Valid 注解 + Exception 全局处理器优雅处理参数验证](https://mp.weixin.qq.com/s/3qJnDyVO3Ii3gcXqqr88_A)
 
 
 ### 单点登录
@@ -147,7 +157,8 @@
 * [Linux最常用命令（简单易学，但能解决 95% 以上的问题）](https://mp.weixin.qq.com/s/ZY6r3Du9M0Db5HcKw-htLg)
 * [史上最全的 Linux Shell 文本处理工具集锦，快收藏！](https://mp.weixin.qq.com/s/1HAudULkYupwfs84zEHdxw)
 * [线上服务 CPU 又 100% 啦？一键定位 so easy！](https://mp.weixin.qq.com/s/YF49yVraxGkREpj3fdBR5A)
-
+* [Vim 命令、操作、快捷键（收藏大全）](https://mp.weixin.qq.com/s/TlTRkjuPd-1-FJ3A1yTk0g)
+* [ping 命令的七种用法，看完瞬间成大神](https://mp.weixin.qq.com/s/sDbInsS08T2NtH1tt82Hhg)
 
 # 测试运维
 
@@ -157,6 +168,10 @@
 * [Git使用教程：最详细、最傻瓜、最浅显、真正手把手教！](https://mp.weixin.qq.com/s/zsf7yU0GI6b_jfOaIOPLEw)
 * [作为开发人员，你不得不懂的Github搜索技巧！](https://mp.weixin.qq.com/s/84VUdR7kmJKkcp0Yqe6M8g)
 
+### Maven
+
+* [maven常用命令集合（收藏大全）](https://mp.weixin.qq.com/s/xc0Rr_Yf0bm_2cmiEw6oOA)
+
 ### Docker
 
 * [终于有人把 Docker 讲清楚了，万字详解！](https://mp.weixin.qq.com/s/A4C6XR2ftxqILYzvekeypw)
@@ -165,9 +180,15 @@
 * [「Jenkins+Git+Maven+Shell+Tomcat持续集成」经典教程](https://mp.weixin.qq.com/s/Yienf1i2ubtlHh-XXWAVUw)
 * [一套基础自动化部署搭建过程](https://mp.weixin.qq.com/s/-M36sv1mNlQ20Kusc8wYvA)
 
+### 攻击预防
+
+* [举世闻名的 SQL 注入是什么？这个漫画告诉你！](https://mp.weixin.qq.com/s/XVPTOghzGk8zdPh3NebaxQ)
+* []()
+
 # 其他
 * [将20M文件从30秒压缩到1秒，我是如何做到的？](https://mp.weixin.qq.com/s/j0nUKn_44GyCG4lBSzmboQ)
 * [130 个相见恨晚的超实用网站，一次性分享出来](https://mp.weixin.qq.com/s/QShOocwxHVe-U568O-bQ2A)
+
 
 
 扫码关注公众号，学习Java，在MarkerHub！
