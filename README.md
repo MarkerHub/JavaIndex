@@ -16,6 +16,7 @@
 
 ### Java特性
 * [感受lambda之美，推荐收藏，需要时查阅](https://mp.weixin.qq.com/s/75YWbfuaFz6Hm8BQKZ7XSw)
+* [来了来了，Java14它真的来了！](https://mp.weixin.qq.com/s/e9pBYgEVt1KVWDeunIvBWw)
 
 ### 框架集合
 
@@ -65,6 +66,8 @@
 * [记住：永远不要在 MySQL 中使用 UTF-8](https://mp.weixin.qq.com/s/QrczVAnDuXcHLFPtThfnfg)
 * [一千行 MySQL 详细学习笔记（值得学习与收藏）](https://mp.weixin.qq.com/s/Okc-jP8fPwO2RGbhdCd-XQ)
 * [SQL 性能优化，太太太太太太太有用了！](https://mp.weixin.qq.com/s/yv8falf-ClpzF0F7Ho00GQ)
+* [少侠！如何写一手好 SQL ？](https://mp.weixin.qq.com/s/UZapLT_p7v48y8t0G6ZZVQ)
+* [一个比 c3p0 快 200 倍的数据库连接池，这么牛？](https://mp.weixin.qq.com/s/Ksb2kzGl2PYde_AgXOMqyg)
 
 ### RabbitMq
 * [springboot + rabbitmq发送邮件(保证消息100%投递成功并被消费)](https://mp.weixin.qq.com/s/Adz_H2ZFotwpwtlupxTCCQ)
@@ -87,6 +90,7 @@
 
 ### websocket
 * [从理论到综合实例，终于弄懂了双工通讯协议websocket！](https://mp.weixin.qq.com/s/E6ADLes6rFvuWy_9-tpx5w)
+* [使用spring boot+WebSocket 实现定时消息推送（基于注解）](https://mp.weixin.qq.com/s/9AJ0w0oqvOrQ3RgxLtmWLg)
 
 ## 工具插件
 
@@ -102,7 +106,17 @@
 * [必读经典项目，web开发框架renren-fast项目解读](https://mp.weixin.qq.com/s/T-5yvcoufxHMjGrZdP5nzA)
 * [基于Jwt资源无状态认证权限管理系统bootshiro项目分析](https://mp.weixin.qq.com/s/Y4sgxrASAkmyQD1F17LldQ)
 * [SpringBoot 微信点餐开源系统](https://mp.weixin.qq.com/s/Oj3DWvAHXD17NQsllzBVJQ)
-* [SpringBoot 微信点餐开源系统](https://mp.weixin.qq.com/s/Oj3DWvAHXD17NQsllzBVJQ)
+* [【项目实践】SpringBoot三招组合拳，手把手教你打出优雅的后端接口](https://mp.weixin.qq.com/s/65YXYv_O-02mLr3WnBkOdw)
+* [SpringBoot+JWT+Shiro+MybatisPlus实现Restful快速开发后端脚手架](https://mp.weixin.qq.com/s/hpPfA3da4vO5wuSCUGT5og)
+
+
+### eblog项目
+
+* [Github上最值得学习的Springboot开源博客项目！](https://mp.weixin.qq.com/s/SA1i-1HQKYIg6H_-VPoq6w)
+* [小Hub手把手教你如何从0搭建一个开源项目架构](https://mp.weixin.qq.com/s/472geEclMyIWCN_zvXYN2g)
+* [整合Redis，以及项目优雅的异常处理与返回结果封装](https://mp.weixin.qq.com/s/19__YLVwb_IzMem1b7MZUA)
+* [用Redis的zset有序集合实现一个本周热议功能](https://mp.weixin.qq.com/s/l01TvSJzgx1Y4BGOW4bkQQ)
+* [自定义Freemaker标签实现博客首页数据填充](https://mp.weixin.qq.com/s/tT7MhYgQ85SeUmQtS8lzPA)
 
 
 ## 面试心得
@@ -145,6 +159,8 @@
 * [从0到1，如何搭建一个好用的springboot开源项目](https://mp.weixin.qq.com/s/5OPAH8C-xa03AVylvkbWPQ)
 * [这么写参数校验(validator)就不会被劝退了~](https://mp.weixin.qq.com/s/UtI9g1UmumxOA2gocvOvhQ)
 * [SpringBoot 中使用 @Valid 注解 + Exception 全局处理器优雅处理参数验证](https://mp.weixin.qq.com/s/3qJnDyVO3Ii3gcXqqr88_A)
+* [Java实现文件批量导入导出实践（兼容xls,xlsx）](https://mp.weixin.qq.com/s/gSLmjdvwEpl1hwjpS4aQYQ)
+* [Springboot异常处理只会@ControllerAdvice+@ExceptionHandler？还远远不够！](https://mp.weixin.qq.com/s/bOq-4QQQE5QvcYx61F0nRw)
 
 
 ### 单点登录
@@ -179,11 +195,12 @@
 ### 持续交付
 * [「Jenkins+Git+Maven+Shell+Tomcat持续集成」经典教程](https://mp.weixin.qq.com/s/Yienf1i2ubtlHh-XXWAVUw)
 * [一套基础自动化部署搭建过程](https://mp.weixin.qq.com/s/-M36sv1mNlQ20Kusc8wYvA)
+* [SpringBoot项目打包+shell脚本部署实践，太有用了！](https://mp.weixin.qq.com/s/Z6p6rZQRpyI_Y-oV9roBqw)
 
 ### 攻击预防
 
 * [举世闻名的 SQL 注入是什么？这个漫画告诉你！](https://mp.weixin.qq.com/s/XVPTOghzGk8zdPh3NebaxQ)
-* []()
+* [掌握XSS与CSRF，我也可以是个黑客！](https://mp.weixin.qq.com/s/bmzwHwthSK5bl-8Fc1gygQ)
 
 # 其他
 * [将20M文件从30秒压缩到1秒，我是如何做到的？](https://mp.weixin.qq.com/s/j0nUKn_44GyCG4lBSzmboQ)
