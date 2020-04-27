@@ -37,7 +37,8 @@
 * [给你一份SpringBoot知识清单](https://mp.weixin.qq.com/s/RTN4qWYNNp3WbKQXU8fObA)
 * [发现mybatis plus的牛逼，解决单表操作！](https://mp.weixin.qq.com/s/HsBKVZexW8PVpQ4ETSEWbQ)
 * [为什么很多SpringBoot开发者放弃了Tomcat，选择了Undertow](https://mp.weixin.qq.com/s/PHaGWVEP7RSx5GBOsH4Yew)
-
+* [使用 SpringBoot2.X 实现 Quartz 动态任务的分布式调度](https://mp.weixin.qq.com/s/3Yo8pJ2zWPo-UEWhxaCMug)
+* [SpringBoot-Vue 前后端分离开发首秀](https://mp.weixin.qq.com/s/6L_mIKlSN-ABeS7CoMN7mA)
 
 ### Mybatis
 
@@ -68,6 +69,7 @@
 * [SQL 性能优化，太太太太太太太有用了！](https://mp.weixin.qq.com/s/yv8falf-ClpzF0F7Ho00GQ)
 * [少侠！如何写一手好 SQL ？](https://mp.weixin.qq.com/s/UZapLT_p7v48y8t0G6ZZVQ)
 * [一个比 c3p0 快 200 倍的数据库连接池，这么牛？](https://mp.weixin.qq.com/s/Ksb2kzGl2PYde_AgXOMqyg)
+* [SQL的各种连接Join详解，都需要熟练掌握！](https://mp.weixin.qq.com/s/78dsu1kLWufLHMOe61Ifhg)
 
 ### RabbitMq
 * [springboot + rabbitmq发送邮件(保证消息100%投递成功并被消费)](https://mp.weixin.qq.com/s/Adz_H2ZFotwpwtlupxTCCQ)
@@ -80,6 +82,7 @@
 
 ### Kafka
 * [面试问：Kafka为什么速度那么快？](https://mp.weixin.qq.com/s/jhwkMiPP8ebNA9kjaKeLpQ)
+* [从集成到ACK、消息重试、死信队列，Kafka你知多少？](https://mp.weixin.qq.com/s/U_biaC7h13zg4d8w7jAAIQ)
 
 ### redis
 * [我是如何用 redis 做实时订阅推送的](https://mp.weixin.qq.com/s/JiRKQuvFJO7atFZXr3X1-Q)
@@ -112,17 +115,23 @@
 
 ### eblog项目
 
-* [Github上最值得学习的Springboot开源博客项目！](https://mp.weixin.qq.com/s/SA1i-1HQKYIg6H_-VPoq6w)
-* [小Hub手把手教你如何从0搭建一个开源项目架构](https://mp.weixin.qq.com/s/472geEclMyIWCN_zvXYN2g)
-* [整合Redis，以及项目优雅的异常处理与返回结果封装](https://mp.weixin.qq.com/s/19__YLVwb_IzMem1b7MZUA)
-* [用Redis的zset有序集合实现一个本周热议功能](https://mp.weixin.qq.com/s/l01TvSJzgx1Y4BGOW4bkQQ)
-* [自定义Freemaker标签实现博客首页数据填充](https://mp.weixin.qq.com/s/tT7MhYgQ85SeUmQtS8lzPA)
-
+* [开源博客项目eblog完整搭建教程！](https://mp.weixin.qq.com/s/c98KlThovvEFKrm_YhkK5g)
+* [（eblog）1、Github上最值得学习的Springboot开源博客项目！](https://mp.weixin.qq.com/s/SA1i-1HQKYIg6H_-VPoq6w)
+* [（eblog）2、小Hub手把手教你如何从0搭建一个开源项目架构](https://mp.weixin.qq.com/s/472geEclMyIWCN_zvXYN2g)
+* [（eblog）3、整合Redis，以及项目优雅的异常处理与返回结果封装](https://mp.weixin.qq.com/s/19__YLVwb_IzMem1b7MZUA)
+* [（eblog）4、用Redis的zset有序集合实现一个本周热议功能](https://mp.weixin.qq.com/s/l01TvSJzgx1Y4BGOW4bkQQ)
+* [（eblog）5、自定义Freemaker标签实现博客首页数据填充](https://mp.weixin.qq.com/s/tT7MhYgQ85SeUmQtS8lzPA)
+* [（eblog）6、博客分类填充、登录注册逻辑](https://mp.weixin.qq.com/s/ak-mcOse3NTCLx2OEHeFzw)
+* [（eblog）7、博客发布收藏、用户中心的设置](https://mp.weixin.qq.com/s/7QdUgareABlkRl1K-4aJCg)
+* [（eblog）8、消息异步通知、细节调整](https://mp.weixin.qq.com/s/Wqtuzcg6W7tHNv7SV16OAg)
+* [（eblog）9、博客搜索引擎开发、后台精选](https://mp.weixin.qq.com/s/JZTEi54G5fjtbUHak5B93g)
+* [（eblog）10、即时群聊开发，聊天记录等](https://mp.weixin.qq.com/s/qn9x3Q-788w7n3SJq72TUg)
 
 ## 面试心得
 
 * [最近面试Java后端开发的感受](https://mp.weixin.qq.com/s/7tODq5dVmU08UKFjiTWZOQ)
 * [2019年最新的常问企业面试题大全以及答案](https://mp.weixin.qq.com/s/4B9NR_WwBF7O_f-9dJnsSg)
+* [精选41 道 Spring Boot 面试题，附答案！](https://mp.weixin.qq.com/s/a_TKAfBea75pvcYWLYxAkQ)
 
 # 解决方案
 
@@ -161,6 +170,7 @@
 * [SpringBoot 中使用 @Valid 注解 + Exception 全局处理器优雅处理参数验证](https://mp.weixin.qq.com/s/3qJnDyVO3Ii3gcXqqr88_A)
 * [Java实现文件批量导入导出实践（兼容xls,xlsx）](https://mp.weixin.qq.com/s/gSLmjdvwEpl1hwjpS4aQYQ)
 * [Springboot异常处理只会@ControllerAdvice+@ExceptionHandler？还远远不够！](https://mp.weixin.qq.com/s/bOq-4QQQE5QvcYx61F0nRw)
+* [为什么要前后端分离？这些接口规范你都懂吗？](https://mp.weixin.qq.com/s/CF2A533FdvdPOwpAqJgr4Q)
 
 
 ### 单点登录
@@ -205,6 +215,7 @@
 # 其他
 * [将20M文件从30秒压缩到1秒，我是如何做到的？](https://mp.weixin.qq.com/s/j0nUKn_44GyCG4lBSzmboQ)
 * [130 个相见恨晚的超实用网站，一次性分享出来](https://mp.weixin.qq.com/s/QShOocwxHVe-U568O-bQ2A)
+* [第一次，感受来自微信官方的宠幸](https://mp.weixin.qq.com/s/QywmIUTA_qdnIQwZUBU3Og)
 
 
 
