@@ -39,6 +39,7 @@
 * [为什么很多SpringBoot开发者放弃了Tomcat，选择了Undertow](https://mp.weixin.qq.com/s/PHaGWVEP7RSx5GBOsH4Yew)
 * [使用 SpringBoot2.X 实现 Quartz 动态任务的分布式调度](https://mp.weixin.qq.com/s/3Yo8pJ2zWPo-UEWhxaCMug)
 * [SpringBoot-Vue 前后端分离开发首秀](https://mp.weixin.qq.com/s/6L_mIKlSN-ABeS7CoMN7mA)
+* [Spring Boot 2 + Spring Security 5 + JWT 的单页应用 Restful 解决方案](https://mp.weixin.qq.com/s/Ht_Zgw9lsCzKE5GvraEcCA)
 
 ### Mybatis
 
@@ -57,6 +58,7 @@
 ### Spring Security
 
 * [SpringBoot 并发登录人数控制](https://mp.weixin.qq.com/s/QjTFmwa-pvWwH8welR-_sg)
+* [Spring Boot 2 + Spring Security 5 + JWT 的单页应用 Restful 解决方案](https://mp.weixin.qq.com/s/Ht_Zgw9lsCzKE5GvraEcCA)
 
 ## 并发知识
 
@@ -73,6 +75,7 @@
 
 ### RabbitMq
 * [springboot + rabbitmq发送邮件(保证消息100%投递成功并被消费)](https://mp.weixin.qq.com/s/Adz_H2ZFotwpwtlupxTCCQ)
+* [基于消息中间件RabbitMQ实现简单的RPC服务](https://mp.weixin.qq.com/s/_YgRZD_oi0CqAdSPSpDUig)
 
 ### Zookeeper
 * [图解！微服务为什么一定要Zookeeper？](https://mp.weixin.qq.com/s/-KLrffGMMCUbmsKb3Sj8-g)
@@ -88,6 +91,7 @@
 * [我是如何用 redis 做实时订阅推送的](https://mp.weixin.qq.com/s/JiRKQuvFJO7atFZXr3X1-Q)
 * [如何保证缓存与数据库的双写一致性？](https://mp.weixin.qq.com/s/uLI-AAPbapEHBLfKI6lr2w)
 * [Redis 是如何实现点赞、取消点赞的？](https://mp.weixin.qq.com/s/JGM9FnuzxmPCg8-Q-t9j-Q)
+* [我才懂！SpringBoot的StringRedisTemplate与RedisTemplate的序列化策略有啥不同~](https://mp.weixin.qq.com/s/r_6eJQKyQ6IY2suuOevQ_w)
 
 ## 网络编程
 
@@ -136,6 +140,11 @@
 # 解决方案
 
 ## 高并发
+
+### 分库分表、多数据源
+
+* [sharding jdbc + mybatis +spring boot的分库分表实现](https://mp.weixin.qq.com/s/zg-yVbXtQMviXpFWX_kO6w)
+* [Springboot整合多数据源以及多数据源中的事务处理（附源码）](https://mp.weixin.qq.com/s/6shaelN5Vp4146Hd1Ugz1Q)
 
 ### 服务化
 
