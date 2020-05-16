@@ -17,11 +17,13 @@
 ### Java特性
 * [感受lambda之美，推荐收藏，需要时查阅](https://mp.weixin.qq.com/s/75YWbfuaFz6Hm8BQKZ7XSw)
 * [来了来了，Java14它真的来了！](https://mp.weixin.qq.com/s/e9pBYgEVt1KVWDeunIvBWw)
+* [别用Date了，Java8新特性之日期处理，现在学会也不迟！](https://mp.weixin.qq.com/s/muzB0LVc4TroImvTMJNJ9Q)
 
 ### 框架集合
 
 #### HashMap
 * [图文并茂，HashMap经典详解！](https://mp.weixin.qq.com/s/TJ8WUOZIk6cEA7YAChn9IA)
+* [面试官： HashMap 为什么线程不安全？](https://mp.weixin.qq.com/s/ZyvrxC3gs92OEME3QzfF_Q)
 
 ### 设计模式
 * [在 Spring Boot 中，如何干掉 if else](https://mp.weixin.qq.com/s/_xV8wRQw_0q0Fl7CegGEeA)
@@ -31,6 +33,7 @@
 * [面试问烂的 Spring AOP 原理、SpringMVC 过程](https://mp.weixin.qq.com/s/J2ajQtHyN4Fq7CZEpGiC4A)
 * [Spring系列最全 69 道 面试题和详解](https://mp.weixin.qq.com/s/Q6bqWQDCgVlYU3LbaWSv3g)
 * [9 种设计模式在 Spring 中的运用，一定要非常熟练！](https://mp.weixin.qq.com/s/Fl1Qc-PUIKLSChx9B9KIJA)
+* [Spring 和 Spring Boot 最核心的 3 大区别，详解！](https://mp.weixin.qq.com/s/17zf98GO7t336ih1sFz7Gw)
 
 ### SpringBoot
 * [Spring MVC 到 Spring BOOT的简化之路](https://mp.weixin.qq.com/s/iR4ylGjhPOyCXC8k4Pq19w)
@@ -40,6 +43,9 @@
 * [使用 SpringBoot2.X 实现 Quartz 动态任务的分布式调度](https://mp.weixin.qq.com/s/3Yo8pJ2zWPo-UEWhxaCMug)
 * [SpringBoot-Vue 前后端分离开发首秀](https://mp.weixin.qq.com/s/6L_mIKlSN-ABeS7CoMN7mA)
 * [Spring Boot 2 + Spring Security 5 + JWT 的单页应用 Restful 解决方案](https://mp.weixin.qq.com/s/Ht_Zgw9lsCzKE5GvraEcCA)
+* [SpringBoot 全局日期格式化（基于注解）](https://mp.weixin.qq.com/s/w8B4Lxi_jU2_hY7442wFag)
+* [Spring cache整合Redis，并给它一个过期时间！](https://mp.weixin.qq.com/s/faPorQjAE9c-UPl8YSU7nw)
+* [小白教程，Springboot项目搭建（前端到数据库，超详细）](https://mp.weixin.qq.com/s/S3x-6rLjS9wR8H0eFFaKxw)
 
 ### Mybatis
 
@@ -54,6 +60,9 @@
 
 ### Shiro
 * [SpringBoot 整合Shiro实现动态权限加载更新+Session共享+单点登录](https://mp.weixin.qq.com/s/wQa6D93gdVu69l5fA32oww)
+* [理解这9大内置过滤器，才算是精通Shiro](https://mp.weixin.qq.com/s/WxrygMbahkkZkpP0wpFH5w)
+* [只需要6个步骤，springboot集成shiro，并完成登录](https://mp.weixin.qq.com/s/czn4Av98kyP4u2yUewIxRQ)
+* [极简入门，Shiro的认证与授权流程解析](https://mp.weixin.qq.com/s/IBM7vfw7uy6AKgJ1sYgVSA)
 
 ### Spring Security
 
@@ -76,6 +85,7 @@
 ### RabbitMq
 * [springboot + rabbitmq发送邮件(保证消息100%投递成功并被消费)](https://mp.weixin.qq.com/s/Adz_H2ZFotwpwtlupxTCCQ)
 * [基于消息中间件RabbitMQ实现简单的RPC服务](https://mp.weixin.qq.com/s/_YgRZD_oi0CqAdSPSpDUig)
+* [RabbitMQ 死信机制真的可以作为延时任务这个场景的解决方案吗？](https://mp.weixin.qq.com/s/GUJABrt-V-tlpg6G8UCX0Q)
 
 ### Zookeeper
 * [图解！微服务为什么一定要Zookeeper？](https://mp.weixin.qq.com/s/-KLrffGMMCUbmsKb3Sj8-g)
@@ -92,12 +102,15 @@
 * [如何保证缓存与数据库的双写一致性？](https://mp.weixin.qq.com/s/uLI-AAPbapEHBLfKI6lr2w)
 * [Redis 是如何实现点赞、取消点赞的？](https://mp.weixin.qq.com/s/JGM9FnuzxmPCg8-Q-t9j-Q)
 * [我才懂！SpringBoot的StringRedisTemplate与RedisTemplate的序列化策略有啥不同~](https://mp.weixin.qq.com/s/r_6eJQKyQ6IY2suuOevQ_w)
+* [SpringBoot整合redisson实现分布式锁](https://mp.weixin.qq.com/s/IlcWdjqHPrWgvQeXKVSljw)
+* [Spring cache整合Redis，并给它一个过期时间！](https://mp.weixin.qq.com/s/faPorQjAE9c-UPl8YSU7nw)
 
 ## 网络编程
 
 ### websocket
 * [从理论到综合实例，终于弄懂了双工通讯协议websocket！](https://mp.weixin.qq.com/s/E6ADLes6rFvuWy_9-tpx5w)
 * [使用spring boot+WebSocket 实现定时消息推送（基于注解）](https://mp.weixin.qq.com/s/9AJ0w0oqvOrQ3RgxLtmWLg)
+* [传统@ServerEndpoint方式开发WebSocket应用和SpringBoot构建WebSocket应用程序](https://mp.weixin.qq.com/s/-sQAIwIbrBxrd3yD3FbO4Q)
 
 ## 工具插件
 
@@ -130,12 +143,14 @@
 * [（eblog）8、消息异步通知、细节调整](https://mp.weixin.qq.com/s/Wqtuzcg6W7tHNv7SV16OAg)
 * [（eblog）9、博客搜索引擎开发、后台精选](https://mp.weixin.qq.com/s/JZTEi54G5fjtbUHak5B93g)
 * [（eblog）10、即时群聊开发，聊天记录等](https://mp.weixin.qq.com/s/qn9x3Q-788w7n3SJq72TUg)
+* [11、eblog项目讲解视频上线啦，长达17个小时！！](https://mp.weixin.qq.com/s/gMSjM0Q1taM0I0_Eqku1Pg)
 
 ## 面试心得
 
 * [最近面试Java后端开发的感受](https://mp.weixin.qq.com/s/7tODq5dVmU08UKFjiTWZOQ)
 * [2019年最新的常问企业面试题大全以及答案](https://mp.weixin.qq.com/s/4B9NR_WwBF7O_f-9dJnsSg)
 * [精选41 道 Spring Boot 面试题，附答案！](https://mp.weixin.qq.com/s/a_TKAfBea75pvcYWLYxAkQ)
+* [月薪10K、15K、20K的Java程序员分别需要掌握哪些技术？](https://mp.weixin.qq.com/s/CfBwk0dttd1eb2PvOvGvuQ)
 
 # 解决方案
 
@@ -210,11 +225,13 @@
 ### Docker
 
 * [终于有人把 Docker 讲清楚了，万字详解！](https://mp.weixin.qq.com/s/A4C6XR2ftxqILYzvekeypw)
+* [就几条命令，一键学会Docker部署SpringBoot项目](https://mp.weixin.qq.com/s/w7Zax4RJ59Pq-jENKZUYRQ)
 
 ### 持续交付
 * [「Jenkins+Git+Maven+Shell+Tomcat持续集成」经典教程](https://mp.weixin.qq.com/s/Yienf1i2ubtlHh-XXWAVUw)
 * [一套基础自动化部署搭建过程](https://mp.weixin.qq.com/s/-M36sv1mNlQ20Kusc8wYvA)
 * [SpringBoot项目打包+shell脚本部署实践，太有用了！](https://mp.weixin.qq.com/s/Z6p6rZQRpyI_Y-oV9roBqw)
+* [花30分钟，用Jenkins部署码云上的SpringBoot项目](https://mp.weixin.qq.com/s/8Wu09zJmH2mUIprkqcd-Rg)
 
 ### 攻击预防
 
@@ -225,7 +242,15 @@
 * [将20M文件从30秒压缩到1秒，我是如何做到的？](https://mp.weixin.qq.com/s/j0nUKn_44GyCG4lBSzmboQ)
 * [130 个相见恨晚的超实用网站，一次性分享出来](https://mp.weixin.qq.com/s/QShOocwxHVe-U568O-bQ2A)
 * [第一次，感受来自微信官方的宠幸](https://mp.weixin.qq.com/s/QywmIUTA_qdnIQwZUBU3Og)
+* []
 
+### 技术迭代
+
+* [为什么要放弃 JSP ？](https://mp.weixin.qq.com/s/xWQMW70lSNRCsS0lbIY2WA)
+
+### 小Hub
+
+* [搬家了，出门就是星巴克，以后我工作的地点](https://mp.weixin.qq.com/s/bq_bmDRr_gBR4iraqbZl1w)
 
 
 扫码关注公众号，学习Java，在MarkerHub！
